@@ -34,6 +34,7 @@ from mod1 import *      # *문자는 모든 것 이라는 뜻의 정규표현식
 
 
 ##### if __name__ == "__main__":의 의미
+### ???
 
 f = open("mod1.py", 'a')
 f.write("\nprint(add(1, 4)) \nprint(sub(4, 2))")
