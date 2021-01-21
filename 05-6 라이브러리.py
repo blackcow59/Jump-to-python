@@ -68,7 +68,7 @@ os.environ['PATH']
 
 ## 디렉토리 위치 변경하기 -os.chdir
 # os.chdir를 사용하면 다음과 같이 현재 디렉토리 위치를 변경할 수 있다.
-os.chdir("c:\WINDOWS")
+os.chdir("c:/Python/doit")
 
 
 ## 디렉토리 위치 돌려받기 -os.getcwd
@@ -306,7 +306,7 @@ webbrowser.open("http://google.com")
 
 
 
-[스레드를 다루는 threading 모듈]
+# [스레드를 다루는 threading 모듈]
 
 # 스레드 프로그래밍은 초보 프로그래머가 구현하기에는 매우 어려운 기술이다. 여기에 잠시 소개했으니 눈으로만 살펴보고 넘어가자.
 

@@ -4,7 +4,8 @@
 def is_odd(a):
     if a % 2 == 0 :
         print('not odd')
-    else : print('odd')
+    else : 
+        print('odd')
 
 is_odd(3)
 is_odd(30)
